@@ -1,0 +1,151 @@
+id,subject,solved
+1,Multiples of 3 and 5,759994
+2,Even Fibonacci numbers,610428
+3,Largest prime factor,437074
+4,Largest palindrome product,388949
+5,Smallest multiple,397129
+6,Sum square difference,399518
+7,10001st prime,341991
+8,Largest product in a series,288755
+9,Special Pythagorean triplet,291730
+10,Summation of primes,267551
+11,Largest product in a grid,193876
+12,Highly divisible triangular number,181216
+13,Large sum,186899
+14,Longest Collatz sequence,186430
+15,Lattice paths,154153
+16,Power digit sum,188583
+17,Number letter counts,125396
+18,Maximum path sum I,120525
+19,Counting Sundays,111998
+20,Factorial digit sum,165234
+21,Amicable numbers,120918
+22,Names scores,111638
+23,Non-abundant sums,85785
+24,Lexicographic permutations,95343
+25,1000-digit Fibonacci number,129034
+26,Reciprocal cycles,69171
+27,Quadratic primes,72287
+28,Number spiral diagonals,90901
+29,Distinct powers,86895
+30,Digit fifth powers,91055
+31,Coin sums,69691
+32,Pandigital products,58720
+33,Digit cancelling fractions,59440
+34,Digit factorials,78232
+35,Circular primes,70548
+36,Double-base palindromes,74341
+37,Truncatable primes,61023
+38,Pandigital multiples,52001
+39,Integer right triangles,60510
+40,Champernowne's constant,66650
+41,Pandigital prime,56319
+42,Coded triangle numbers,62220
+43,Sub-string divisibility,49114
+44,Pentagon numbers,47731
+45,"Triangular, pentagonal, and hexagonal",59187
+46,Goldbach's other conjecture,50483
+47,Distinct primes factors,47707
+48,Self powers,94940
+49,Prime permutations,47686
+50,Consecutive prime sum,51352
+51,Prime digit replacements,26935
+52,Permuted multiples,54372
+53,Combinatoric selections,48990
+54,Poker hands,28949
+55,Lychrel numbers,44575
+56,Powerful digit sum,48328
+57,Square root convergents,33937
+58,Spiral primes,32865
+59,XOR decryption,34410
+60,Prime pair sets,21120
+61,Cyclical figurate numbers,20546
+62,Cubic permutations,25351
+63,Powerful digit counts,35486
+64,Odd period square roots,17853
+65,Convergents of e,24560
+66,Diophantine equation,15872
+67,Maximum path sum II,81131
+68,Magic 5-gon ring,16793
+69,Totient maximum,27991
+70,Totient permutation,18121
+71,Ordered fractions,23710
+72,Counting fractions,18108
+73,Counting fractions in a range,20598
+74,Digit factorial chains,21766
+75,Singular integer right triangles,14468
+76,Counting summations,23364
+77,Prime summations,15408
+78,Coin partitions,13556
+79,Passcode derivation,35191
+80,Square root digital expansion,16195
+81,Path sum: two ways,28550
+82,Path sum: three ways,17324
+83,Path sum: four ways,14818
+84,Monopoly odds,10094
+85,Counting rectangles,20279
+86,Cuboid route,10208
+87,Prime power triples,16980
+88,Product-sum numbers,7905
+89,Roman numerals,17758
+90,Cube digit pairs,8887
+91,Right triangles with integer coordinates,12521
+92,Square digit chains,34838
+93,Arithmetic expressions,9359
+94,Almost equilateral triangles,9785
+95,Amicable chains,11410
+96,Su Doku,13735
+97,Large non-Mersenne prime,37066
+98,Anagramic squares,9029
+99,Largest exponential,25189
+100,Arranged probability,13035
+101,Optimum polynomial,9018
+102,Triangle containment,17849
+103,Special subset sums: optimum,6338
+104,Pandigital Fibonacci ends,13334
+105,Special subset sums: testing,6361
+106,Special subset sums: meta-testing,5076
+107,Minimal network,8957
+108,Diophantine reciprocals I,10443
+109,Darts,6503
+110,Diophantine reciprocals II,6558
+111,Primes with runs,5756
+112,Bouncy numbers,20210
+113,Non-bouncy numbers,9071
+114,Counting block combinations I,8781
+115,Counting block combinations II,8032
+116,"Red, green or blue tiles",9822
+117,"Red, green, and blue tiles",9009
+118,Pandigital prime sets,5483
+119,Digit power sum,10016
+120,Square remainders,11394
+121,Disc game prize fund,7900
+122,Efficient exponentiation,6217
+123,Prime square remainders,9451
+124,Ordered radicals,11434
+125,Palindromic sums,11152
+126,Cuboid layers,3708
+127,abc-hits,4929
+128,Hexagonal tile differences,3949
+129,Repunit divisibility,5058
+130,Composites with prime repunit property,4764
+131,Prime cube partnership,5964
+132,Large repunit factors,5117
+133,Repunit nonfactors,4426
+134,Prime pair connection,5631
+135,Same differences,5132
+136,Singleton difference,4491
+137,Fibonacci golden nuggets,4350
+138,Special isosceles triangles,4637
+139,Pythagorean tiles,4472
+140,Modified Fibonacci golden nuggets,3389
+141,"[Investigating progressive numbers, , which are also square]",3020
+142,Perfect Square Collection,4693
+143,Investigating the Torricelli point of a triangle,2086
+144,Investigating multiple reflections of a laser beam,4961
+145,How many reversible numbers are there below one-billion?,13591
+146,Investigating a Prime Pattern,4010
+147,Rectangles in cross-hatched grids,2347
+148,Exploring Pascal's triangle,4113
+149,Searching for a maximum-sum subsequence,3887
+150,Searching a triangular array for a sub-triangle having minimum-sum,3172

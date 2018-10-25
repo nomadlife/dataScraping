@@ -1,0 +1,54 @@
+|------+------------------------------------------+---------|
+|  id  | subject                                  | solved  |
+|------+------------------------------------------+---------|
+|  67  | Maximum path sum II                      | 81451   |
+|  52  | Permuted multiples                       | 54624   |
+|  53  | Combinatoric selections                  | 49229   |
+|  56  | Powerful digit sum                       | 48525   |
+|  55  | Lychrel numbers                          | 44776   |
+|  97  | Large non-Mersenne prime                 | 37184   |
+|  63  | Powerful digit counts                    | 35641   |
+|  79  | Passcode derivation                      | 35312   |
+|  92  | Square digit chains                      | 34977   |
+|  59  | XOR decryption                           | 34539   |
+|  57  | Square root convergents                  | 34106   |
+|  58  | Spiral primes                            | 33011   |
+|  54  | Poker hands                              | 29088   |
+|  81  | Path sum: two ways                       | 28646   |
+|  69  | Totient maximum                          | 28114   |
+|  51  | Prime digit replacements                 | 27101   |
+|  62  | Cubic permutations                       | 25469   |
+|  99  | Largest exponential                      | 25272   |
+|  65  | Convergents of e                         | 24652   |
+|  71  | Ordered fractions                        | 23805   |
+|  76  | Counting summations                      | 23455   |
+|  74  | Digit factorial chains                   | 21850   |
+|  60  | Prime pair sets                          | 21243   |
+|  73  | Counting fractions in a range            | 20681   |
+|  61  | Cyclical figurate numbers                | 20642   |
+|  85  | Counting rectangles                      | 20355   |
+|  70  | Totient permutation                      | 18198   |
+|  72  | Counting fractions                       | 18186   |
+|  64  | Odd period square roots                  | 17929   |
+|  89  | Roman numerals                           | 17823   |
+|  82  | Path sum: three ways                     | 17390   |
+|  87  | Prime power triples                      | 17049   |
+|  68  | Magic 5-gon ring                         | 16863   |
+|  80  | Square root digital expansion            | 16262   |
+|  66  | Diophantine equation                     | 15943   |
+|  77  | Prime summations                         | 15468   |
+|  83  | Path sum: four ways                      | 14873   |
+|  75  | Singular integer right triangles         | 14541   |
+|  96  | Su Doku                                  | 13791   |
+|  78  | Coin partitions                          | 13615   |
+|  100 | Arranged probability                     | 13074   |
+|  91  | Right triangles with integer coordinates | 12572   |
+|  95  | Amicable chains                          | 11453   |
+|  86  | Cuboid route                             | 10257   |
+|  84  | Monopoly odds                            | 10137   |
+|  94  | Almost equilateral triangles             | 9827    |
+|  93  | Arithmetic expressions                   | 9404    |
+|  98  | Anagramic squares                        | 9060    |
+|  90  | Cube digit pairs                         | 8927    |
+|  88  | Product-sum numbers                      | 7948    |
+|------+------------------------------------------+---------|

@@ -1,0 +1,54 @@
+|-----+---------------------------------------+---------|
+|  id | subject                               | solved  |
+|-----+---------------------------------------+---------|
+|  1  | Multiples of 3 and 5                  | 764966  |
+|  2  | Even Fibonacci numbers                | 614350  |
+|  3  | Largest prime factor                  | 439794  |
+|  6  | Sum square difference                 | 401789  |
+|  5  | Smallest multiple                     | 399405  |
+|  4  | Largest palindrome product            | 391359  |
+|  7  | 10001st prime                         | 343897  |
+|  9  | Special Pythagorean triplet           | 293343  |
+|  8  | Largest product in a series           | 290329  |
+|  10 | Summation of primes                   | 268995  |
+|  11 | Largest product in a grid             | 194830  |
+|  16 | Power digit sum                       | 189504  |
+|  13 | Large sum                             | 187809  |
+|  14 | Longest Collatz sequence              | 187417  |
+|  12 | Highly divisible triangular number    | 182173  |
+|  20 | Factorial digit sum                   | 166017  |
+|  15 | Lattice paths                         | 154882  |
+|  25 | 1000-digit Fibonacci number           | 129671  |
+|  17 | Number letter counts                  | 126020  |
+|  21 | Amicable numbers                      | 121526  |
+|  18 | Maximum path sum I                    | 121092  |
+|  19 | Counting Sundays                      | 112530  |
+|  22 | Names scores                          | 112193  |
+|  24 | Lexicographic permutations            | 95807   |
+|  48 | Self powers                           | 95302   |
+|  30 | Digit fifth powers                    | 91509   |
+|  28 | Number spiral diagonals               | 91277   |
+|  29 | Distinct powers                       | 87331   |
+|  23 | Non-abundant sums                     | 86227   |
+|  34 | Digit factorials                      | 78598   |
+|  36 | Double-base palindromes               | 74696   |
+|  27 | Quadratic primes                      | 72635   |
+|  35 | Circular primes                       | 70880   |
+|  31 | Coin sums                             | 70020   |
+|  26 | Reciprocal cycles                     | 69507   |
+|  40 | Champernowne's constant               | 66968   |
+|  42 | Coded triangle numbers                | 62497   |
+|  37 | Truncatable primes                    | 61339   |
+|  39 | Integer right triangles               | 60814   |
+|  33 | Digit cancelling fractions            | 59720   |
+|  32 | Pandigital products                   | 59005   |
+|  41 | Pandigital prime                      | 56594   |
+|  38 | Pandigital multiples                  | 52242   |
+|  50 | Consecutive prime sum                 | 51605   |
+|  46 | Goldbach's other conjecture           | 50751   |
+|  43 | Sub-string divisibility               | 49366   |
+|  44 | Pentagon numbers                      | 47977   |
+|  47 | Distinct primes factors               | 47945   |
+|  49 | Prime permutations                    | 47925   |
+|  45 | Triangular, pentagonal, and hexagonal | 59465   |
+|-----+---------------------------------------+---------|

@@ -1,0 +1,50 @@
+1,Multiples of 3 and 5,768062
+2,Even Fibonacci numbers,616688
+3,Largest prime factor,441451
+4,Largest palindrome product,392749
+5,Smallest multiple,400765
+6,Sum square difference,403170
+7,10001st prime,345064
+8,Largest product in a series,291209
+9,Special Pythagorean triplet,294257
+10,Summation of primes,269852
+11,Largest product in a grid,195431
+12,Highly divisible triangular number,182761
+13,Large sum,188401
+14,Longest Collatz sequence,187971
+15,Lattice paths,155329
+16,Power digit sum,190064
+17,Number letter counts,126360
+18,Maximum path sum I,121411
+19,Counting Sundays,112852
+20,Factorial digit sum,166467
+21,Amicable numbers,121873
+22,Names scores,112493
+23,Non-abundant sums,86466
+24,Lexicographic permutations,96085
+25,1000-digit Fibonacci number,130044
+26,Reciprocal cycles,69706
+27,Quadratic primes,72844
+28,Number spiral diagonals,91524
+29,Distinct powers,87593
+30,Digit fifth powers,91794
+31,Coin sums,70239
+32,Pandigital products,59187
+33,Digit cancelling fractions,59894
+34,Digit factorials,78828
+35,Circular primes,71079
+36,Double-base palindromes,74927
+37,Truncatable primes,61512
+38,Pandigital multiples,52392
+39,Integer right triangles,60973
+40,Champernowne's constant,67158
+41,Pandigital prime,56756
+42,Coded triangle numbers,62666
+43,Sub-string divisibility,49525
+44,Pentagon numbers,48129
+45,"Triangular, pentagonal, and hexagonal",59648
+46,Goldbach's other conjecture,50903
+47,Distinct primes factors,48084
+48,Self powers,95551
+49,Prime permutations,48080
+50,Consecutive prime sum,51762

@@ -1,0 +1,1058 @@
+{
+	"html": {
+		"body": {
+			"tr": [
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "1"
+						},
+						{
+							"a": {
+								"href": "problem=1",
+								"title": "Published on Friday, 5th October 2001, 06:00 pm",
+								"$t": "Multiples of 3 and 5"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "756251"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "2"
+						},
+						{
+							"a": {
+								"href": "problem=2",
+								"title": "Published on Friday, 19th October 2001, 06:00 pm",
+								"$t": "Even Fibonacci numbers"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "607599"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "3"
+						},
+						{
+							"a": {
+								"href": "problem=3",
+								"title": "Published on Friday, 2nd November 2001, 06:00 pm",
+								"$t": "Largest prime factor"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "435055"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "4"
+						},
+						{
+							"a": {
+								"href": "problem=4",
+								"title": "Published on Friday, 16th November 2001, 06:00 pm",
+								"$t": "Largest palindrome product"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "387223"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "5"
+						},
+						{
+							"a": {
+								"href": "problem=5",
+								"title": "Published on Friday, 30th November 2001, 06:00 pm",
+								"$t": "Smallest multiple"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "395537"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "6"
+						},
+						{
+							"a": {
+								"href": "problem=6",
+								"title": "Published on Friday, 14th December 2001, 06:00 pm",
+								"$t": "Sum square difference"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "397888"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "7"
+						},
+						{
+							"a": {
+								"href": "problem=7",
+								"title": "Published on Friday, 28th December 2001, 06:00 pm",
+								"$t": "10001st prime"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "340598"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "8"
+						},
+						{
+							"a": {
+								"href": "problem=8",
+								"title": "Published on Friday, 11th January 2002, 06:00 pm",
+								"$t": "Largest product in a series"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "287638"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "9"
+						},
+						{
+							"a": {
+								"href": "problem=9",
+								"title": "Published on Friday, 25th January 2002, 06:00 pm",
+								"$t": "Special Pythagorean triplet"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "290545"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "10"
+						},
+						{
+							"a": {
+								"href": "problem=10",
+								"title": "Published on Friday, 8th February 2002, 06:00 pm",
+								"$t": "Summation of primes"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "266531"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "11"
+						},
+						{
+							"a": {
+								"href": "problem=11",
+								"title": "Published on Friday, 22nd February 2002, 06:00 pm",
+								"$t": "Largest product in a grid"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "193199"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "12"
+						},
+						{
+							"a": {
+								"href": "problem=12",
+								"title": "Published on Friday, 8th March 2002, 06:00 pm",
+								"$t": "Highly divisible triangular number"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "180573"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "13"
+						},
+						{
+							"a": {
+								"href": "problem=13",
+								"title": "Published on Friday, 22nd March 2002, 06:00 pm",
+								"$t": "Large sum"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "186219"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "14"
+						},
+						{
+							"a": {
+								"href": "problem=14",
+								"title": "Published on Friday, 5th April 2002, 06:00 pm",
+								"$t": "Longest Collatz sequence"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "185745"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "15"
+						},
+						{
+							"a": {
+								"href": "problem=15",
+								"title": "Published on Friday, 19th April 2002, 06:00 pm",
+								"$t": "Lattice paths"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "153644"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "16"
+						},
+						{
+							"a": {
+								"href": "problem=16",
+								"title": "Published on Friday, 3rd May 2002, 06:00 pm",
+								"$t": "Power digit sum"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "187904"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "17"
+						},
+						{
+							"a": {
+								"href": "problem=17",
+								"title": "Published on Friday, 17th May 2002, 06:00 pm",
+								"$t": "Number letter counts"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "124975"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "18"
+						},
+						{
+							"a": {
+								"href": "problem=18",
+								"title": "Published on Friday, 31st May 2002, 06:00 pm",
+								"$t": "Maximum path sum I"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "120140"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "19"
+						},
+						{
+							"a": {
+								"href": "problem=19",
+								"title": "Published on Friday, 14th June 2002, 06:00 pm",
+								"$t": "Counting Sundays"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "111644"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "20"
+						},
+						{
+							"a": {
+								"href": "problem=20",
+								"title": "Published on Friday, 21st June 2002, 06:00 pm",
+								"$t": "Factorial digit sum"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "164656"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "21"
+						},
+						{
+							"a": {
+								"href": "problem=21",
+								"title": "Published on Friday, 5th July 2002, 06:00 pm",
+								"$t": "Amicable numbers"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "120486"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "22"
+						},
+						{
+							"a": {
+								"href": "problem=22",
+								"title": "Published on Friday, 19th July 2002, 06:00 pm",
+								"$t": "Names scores"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "111274"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "23"
+						},
+						{
+							"a": {
+								"href": "problem=23",
+								"title": "Published on Friday, 2nd August 2002, 06:00 pm",
+								"$t": "Non-abundant sums"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "85505"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "24"
+						},
+						{
+							"a": {
+								"href": "problem=24",
+								"title": "Published on Friday, 16th August 2002, 06:00 pm",
+								"$t": "Lexicographic permutations"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "95062"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "25"
+						},
+						{
+							"a": {
+								"href": "problem=25",
+								"title": "Published on Friday, 30th August 2002, 06:00 pm",
+								"$t": "1000-digit Fibonacci number"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "128581"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "26"
+						},
+						{
+							"a": {
+								"href": "problem=26",
+								"title": "Published on Friday, 13th September 2002, 06:00 pm",
+								"$t": "Reciprocal cycles"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "68944"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "27"
+						},
+						{
+							"a": {
+								"href": "problem=27",
+								"title": "Published on Friday, 27th September 2002, 06:00 pm",
+								"$t": "Quadratic primes"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "72035"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "28"
+						},
+						{
+							"a": {
+								"href": "problem=28",
+								"title": "Published on Friday, 11th October 2002, 06:00 pm",
+								"$t": "Number spiral diagonals"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "90632"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "29"
+						},
+						{
+							"a": {
+								"href": "problem=29",
+								"title": "Published on Friday, 25th October 2002, 06:00 pm",
+								"$t": "Distinct powers"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "86597"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "30"
+						},
+						{
+							"a": {
+								"href": "problem=30",
+								"title": "Published on Friday, 8th November 2002, 06:00 pm",
+								"$t": "Digit fifth powers"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "90750"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "31"
+						},
+						{
+							"a": {
+								"href": "problem=31",
+								"title": "Published on Friday, 22nd November 2002, 06:00 pm",
+								"$t": "Coin sums"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "69465"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "32"
+						},
+						{
+							"a": {
+								"href": "problem=32",
+								"title": "Published on Friday, 6th December 2002, 06:00 pm",
+								"$t": "Pandigital products"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "58546"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "33"
+						},
+						{
+							"a": {
+								"href": "problem=33",
+								"title": "Published on Friday, 20th December 2002, 06:00 pm",
+								"$t": "Digit cancelling fractions"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "59256"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "34"
+						},
+						{
+							"a": {
+								"href": "problem=34",
+								"title": "Published on Friday, 3rd January 2003, 06:00 pm",
+								"$t": "Digit factorials"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "77992"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "35"
+						},
+						{
+							"a": {
+								"href": "problem=35",
+								"title": "Published on Friday, 17th January 2003, 06:00 pm",
+								"$t": "Circular primes"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "70344"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "36"
+						},
+						{
+							"a": {
+								"href": "problem=36",
+								"title": "Published on Friday, 31st January 2003, 06:00 pm",
+								"$t": "Double-base palindromes"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "74121"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "37"
+						},
+						{
+							"a": {
+								"href": "problem=37",
+								"title": "Published on Friday, 14th February 2003, 06:00 pm",
+								"$t": "Truncatable primes"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "60841"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "38"
+						},
+						{
+							"a": {
+								"href": "problem=38",
+								"title": "Published on Friday, 28th February 2003, 06:00 pm",
+								"$t": "Pandigital multiples"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "51836"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "39"
+						},
+						{
+							"a": {
+								"href": "problem=39",
+								"title": "Published on Friday, 14th March 2003, 06:00 pm",
+								"$t": "Integer right triangles"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "60330"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "40"
+						},
+						{
+							"a": {
+								"href": "problem=40",
+								"title": "Published on Friday, 28th March 2003, 06:00 pm",
+								"$t": "Champernowne's constant"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "66441"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "41"
+						},
+						{
+							"a": {
+								"href": "problem=41",
+								"title": "Published on Friday, 11th April 2003, 06:00 pm",
+								"$t": "Pandigital prime"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "56150"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "42"
+						},
+						{
+							"a": {
+								"href": "problem=42",
+								"title": "Published on Friday, 25th April 2003, 06:00 pm",
+								"$t": "Coded triangle numbers"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "62049"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "43"
+						},
+						{
+							"a": {
+								"href": "problem=43",
+								"title": "Published on Friday, 9th May 2003, 06:00 pm",
+								"$t": "Sub-string divisibility"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "48968"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "44"
+						},
+						{
+							"a": {
+								"href": "problem=44",
+								"title": "Published on Friday, 23rd May 2003, 06:00 pm",
+								"$t": "Pentagon numbers"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "47578"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "45"
+						},
+						{
+							"a": {
+								"href": "problem=45",
+								"title": "Published on Friday, 6th June 2003, 06:00 pm",
+								"$t": "Triangular, pentagonal, and hexagonal"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "59031"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "46"
+						},
+						{
+							"a": {
+								"href": "problem=46",
+								"title": "Published on Friday, 20th June 2003, 06:00 pm",
+								"$t": "Goldbach's other conjecture"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "50341"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "47"
+						},
+						{
+							"a": {
+								"href": "problem=47",
+								"title": "Published on Friday, 4th July 2003, 06:00 pm",
+								"$t": "Distinct primes factors"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "47571"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "48"
+						},
+						{
+							"a": {
+								"href": "problem=48",
+								"title": "Published on Friday, 18th July 2003, 06:00 pm",
+								"$t": "Self powers"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "94677"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "49"
+						},
+						{
+							"a": {
+								"href": "problem=49",
+								"title": "Published on Friday, 1st August 2003, 06:00 pm",
+								"$t": "Prime permutations"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "47543"
+							}
+						}
+					]
+				},
+				{
+					"td": [
+						{
+							"class": "id_column",
+							"$t": "50"
+						},
+						{
+							"a": {
+								"href": "problem=50",
+								"title": "Published on Friday, 15th August 2003, 06:00 pm",
+								"$t": "Consecutive prime sum"
+							}
+						},
+						{
+							"div": {
+								"style": "text-align:center;",
+								"$t": "51198"
+							}
+						}
+					]
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,2 @@
+# < test1_kperson.json jq -c '.html.body.tr[] | {rank:.td[0]."$t",solved:.td[3]."$t",last_solved:.td[1].table.tbody.tr.td[0].div.span."$t"}' > test2_kperson.json
+< test1_kperson.json jq -c '.html.body.tr[] | {id,rank:.td[0]."$t",solved:.td[3]."$t",level:.td[4].a."$t",language:.td[5].a."$t",last_solved:.td[1].table.tbody.tr.td[0].div.span."$t"}' > test2_kperson.json

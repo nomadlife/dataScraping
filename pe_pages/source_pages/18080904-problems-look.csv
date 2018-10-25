@@ -1,0 +1,154 @@
+|------+--------------------------------------------------------------------+---------|
+|  id  | subject                                                            | solved  |
+|------+--------------------------------------------------------------------+---------|
+|  1   | Multiples of 3 and 5                                               | 771871  |
+|  2   | Even Fibonacci numbers                                             | 619568  |
+|  3   | Largest prime factor                                               | 443465  |
+|  4   | Largest palindrome product                                         | 394503  |
+|  5   | Smallest multiple                                                  | 402470  |
+|  6   | Sum square difference                                              | 404867  |
+|  7   | 10001st prime                                                      | 346477  |
+|  8   | Largest product in a series                                        | 292321  |
+|  9   | Special Pythagorean triplet                                        | 295416  |
+|  10  | Summation of primes                                                | 270913  |
+|  11  | Largest product in a grid                                          | 196156  |
+|  12  | Highly divisible triangular number                                 | 183494  |
+|  13  | Large sum                                                          | 189087  |
+|  14  | Longest Collatz sequence                                           | 188721  |
+|  15  | Lattice paths                                                      | 155943  |
+|  16  | Power digit sum                                                    | 190786  |
+|  17  | Number letter counts                                               | 126834  |
+|  18  | Maximum path sum I                                                 | 121858  |
+|  19  | Counting Sundays                                                   | 113282  |
+|  20  | Factorial digit sum                                                | 167045  |
+|  21  | Amicable numbers                                                   | 122361  |
+|  22  | Names scores                                                       | 112876  |
+|  23  | Non-abundant sums                                                  | 86809   |
+|  24  | Lexicographic permutations                                         | 96441   |
+|  25  | 1000-digit Fibonacci number                                        | 130487  |
+|  26  | Reciprocal cycles                                                  | 69955   |
+|  27  | Quadratic primes                                                   | 73117   |
+|  28  | Number spiral diagonals                                            | 91832   |
+|  29  | Distinct powers                                                    | 87921   |
+|  30  | Digit fifth powers                                                 | 92101   |
+|  31  | Coin sums                                                          | 70508   |
+|  32  | Pandigital products                                                | 59398   |
+|  33  | Digit cancelling fractions                                         | 60124   |
+|  34  | Digit factorials                                                   | 79092   |
+|  35  | Circular primes                                                    | 71365   |
+|  36  | Double-base palindromes                                            | 75172   |
+|  37  | Truncatable primes                                                 | 61768   |
+|  38  | Pandigital multiples                                               | 52603   |
+|  39  | Integer right triangles                                            | 61219   |
+|  40  | Champernowne's constant                                            | 67395   |
+|  41  | Pandigital prime                                                   | 56973   |
+|  42  | Coded triangle numbers                                             | 62890   |
+|  43  | Sub-string divisibility                                            | 49727   |
+|  44  | Pentagon numbers                                                   | 48313   |
+|  45  | Triangular, pentagonal, and hexagonal                              | 59867   |
+|  46  | Goldbach's other conjecture                                        | 51116   |
+|  47  | Distinct primes factors                                            | 48274   |
+|  48  | Self powers                                                        | 95843   |
+|  49  | Prime permutations                                                 | 48277   |
+|  50  | Consecutive prime sum                                              | 51975   |
+|  51  | Prime digit replacements                                           | 27293   |
+|  52  | Permuted multiples                                                 | 54947   |
+|  53  | Combinatoric selections                                            | 49537   |
+|  54  | Poker hands                                                        | 29278   |
+|  55  | Lychrel numbers                                                    | 45039   |
+|  56  | Powerful digit sum                                                 | 48820   |
+|  57  | Square root convergents                                            | 34308   |
+|  58  | Spiral primes                                                      | 33234   |
+|  59  | XOR decryption                                                     | 34737   |
+|  60  | Prime pair sets                                                    | 21385   |
+|  61  | Cyclical figurate numbers                                          | 20785   |
+|  62  | Cubic permutations                                                 | 25644   |
+|  63  | Powerful digit counts                                              | 35877   |
+|  64  | Odd period square roots                                            | 18042   |
+|  65  | Convergents of e                                                   | 24787   |
+|  66  | Diophantine equation                                               | 16038   |
+|  67  | Maximum path sum II                                                | 81906   |
+|  68  | Magic 5-gon ring                                                   | 16965   |
+|  69  | Totient maximum                                                    | 28315   |
+|  70  | Totient permutation                                                | 18317   |
+|  71  | Ordered fractions                                                  | 23969   |
+|  72  | Counting fractions                                                 | 18296   |
+|  73  | Counting fractions in a range                                      | 20801   |
+|  74  | Digit factorial chains                                             | 21986   |
+|  75  | Singular integer right triangles                                   | 14625   |
+|  76  | Counting summations                                                | 23616   |
+|  77  | Prime summations                                                   | 15570   |
+|  78  | Coin partitions                                                    | 13708   |
+|  79  | Passcode derivation                                                | 35482   |
+|  80  | Square root digital expansion                                      | 16372   |
+|  81  | Path sum: two ways                                                 | 28832   |
+|  82  | Path sum: three ways                                               | 17504   |
+|  83  | Path sum: four ways                                                | 14969   |
+|  84  | Monopoly odds                                                      | 10200   |
+|  85  | Counting rectangles                                                | 20504   |
+|  86  | Cuboid route                                                       | 10309   |
+|  87  | Prime power triples                                                | 17176   |
+|  88  | Product-sum numbers                                                | 7993    |
+|  89  | Roman numerals                                                     | 17913   |
+|  90  | Cube digit pairs                                                   | 8983    |
+|  91  | Right triangles with integer coordinates                           | 12632   |
+|  92  | Square digit chains                                                | 35177   |
+|  93  | Arithmetic expressions                                             | 9456    |
+|  94  | Almost equilateral triangles                                       | 9877    |
+|  95  | Amicable chains                                                    | 11521   |
+|  96  | Su Doku                                                            | 13873   |
+|  97  | Large non-Mersenne prime                                           | 37370   |
+|  98  | Anagramic squares                                                  | 9108    |
+|  99  | Largest exponential                                                | 25419   |
+|  100 | Arranged probability                                               | 13147   |
+|  101 | Optimum polynomial                                                 | 9101    |
+|  102 | Triangle containment                                               | 18039   |
+|  103 | Special subset sums: optimum                                       | 6398    |
+|  104 | Pandigital Fibonacci ends                                          | 13457   |
+|  105 | Special subset sums: testing                                       | 6415    |
+|  106 | Special subset sums: meta-testing                                  | 5119    |
+|  107 | Minimal network                                                    | 9045    |
+|  108 | Diophantine reciprocals I                                          | 10536   |
+|  109 | Darts                                                              | 6567    |
+|  110 | Diophantine reciprocals II                                         | 6619    |
+|  111 | Primes with runs                                                   | 5811    |
+|  112 | Bouncy numbers                                                     | 20428   |
+|  113 | Non-bouncy numbers                                                 | 9148    |
+|  114 | Counting block combinations I                                      | 8879    |
+|  115 | Counting block combinations II                                     | 8122    |
+|  116 | Red, green or blue tiles                                           | 9923    |
+|  117 | Red, green, and blue tiles                                         | 9103    |
+|  118 | Pandigital prime sets                                              | 5544    |
+|  119 | Digit power sum                                                    | 10122   |
+|  120 | Square remainders                                                  | 11482   |
+|  121 | Disc game prize fund                                               | 7958    |
+|  122 | Efficient exponentiation                                           | 6280    |
+|  123 | Prime square remainders                                            | 9536    |
+|  124 | Ordered radicals                                                   | 11538   |
+|  125 | Palindromic sums                                                   | 11253   |
+|  126 | Cuboid layers                                                      | 3734    |
+|  127 | abc-hits                                                           | 4984    |
+|  128 | Hexagonal tile differences                                         | 3977    |
+|  129 | Repunit divisibility                                               | 5107    |
+|  130 | Composites with prime repunit property                             | 4801    |
+|  131 | Prime cube partnership                                             | 6023    |
+|  132 | Large repunit factors                                              | 5156    |
+|  133 | Repunit nonfactors                                                 | 4461    |
+|  134 | Prime pair connection                                              | 5688    |
+|  135 | Same differences                                                   | 5173    |
+|  136 | Singleton difference                                               | 4530    |
+|  137 | Fibonacci golden nuggets                                           | 4384    |
+|  138 | Special isosceles triangles                                        | 4678    |
+|  139 | Pythagorean tiles                                                  | 4513    |
+|  140 | Modified Fibonacci golden nuggets                                  | 3419    |
+|  141 | [Investigating progressive numbers, , which are also square]       | 3060    |
+|  142 | Perfect Square Collection                                          | 4737    |
+|  143 | Investigating the Torricelli point of a triangle                   | 2099    |
+|  144 | Investigating multiple reflections of a laser beam                 | 5006    |
+|  145 | How many reversible numbers are there below one-billion?           | 13733   |
+|  146 | Investigating a Prime Pattern                                      | 4041    |
+|  147 | Rectangles in cross-hatched grids                                  | 2367    |
+|  148 | Exploring Pascal's triangle                                        | 4154    |
+|  149 | Searching for a maximum-sum subsequence                            | 3920    |
+|  150 | Searching a triangular array for a sub-triangle having minimum-sum | 3194    |
+|------+--------------------------------------------------------------------+---------|

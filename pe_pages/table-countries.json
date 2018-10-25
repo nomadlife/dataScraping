@@ -1,0 +1,6084 @@
+{
+	"html": {
+		"body": {
+			"tr": [
+				{
+					"id": "id_Afghanistan_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Afghanistan",
+								"img": {
+									"src": "countries_files/Afghanistan.gif",
+									"alt": "Afghanistan"
+								},
+								"$t": "Afghanistan"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "69"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "17.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Albania_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Albania",
+								"img": {
+									"src": "countries_files/Albania.gif",
+									"alt": "Albania"
+								},
+								"$t": "Albania"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "125"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "30.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Algeria_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Algeria",
+								"img": {
+									"src": "countries_files/Algeria.gif",
+									"alt": "Algeria"
+								},
+								"$t": "Algeria"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "191"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "23.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Andorra_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Andorra",
+								"img": {
+									"src": "countries_files/Andorra.gif",
+									"alt": "Andorra"
+								},
+								"$t": "Andorra"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "35"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "31.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Angola_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Angola",
+								"img": {
+									"src": "countries_files/Angola.gif",
+									"alt": "Angola"
+								},
+								"$t": "Angola"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "17"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "23.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Antigua_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Antigua",
+								"img": {
+									"src": "countries_files/Antigua.gif",
+									"alt": "Antigua"
+								},
+								"$t": "Antigua"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "7"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "0%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Argentina_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Argentina",
+								"img": {
+									"src": "countries_files/Argentina.gif",
+									"alt": "Argentina"
+								},
+								"$t": "Argentina"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1009"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "35.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Armenia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Armenia",
+								"img": {
+									"src": "countries_files/Armenia.gif",
+									"alt": "Armenia"
+								},
+								"$t": "Armenia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "127"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "23.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Aruba_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Aruba",
+								"img": {
+									"src": "countries_files/Aruba.gif",
+									"alt": "Aruba"
+								},
+								"$t": "Aruba"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "4"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "25%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Australia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Australia",
+								"img": {
+									"src": "countries_files/Australia.gif",
+									"alt": "Australia"
+								},
+								"$t": "Australia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "3562"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "38.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5%"
+						}
+					]
+				},
+				{
+					"id": "id_Austria_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Austria",
+								"img": {
+									"src": "countries_files/Austria.gif",
+									"alt": "Austria"
+								},
+								"$t": "Austria"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1164"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "39.2%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5%"
+						}
+					]
+				},
+				{
+					"id": "id_Azerbaijan_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Azerbaijan",
+								"img": {
+									"src": "countries_files/Azerbaijan.gif",
+									"alt": "Azerbaijan"
+								},
+								"$t": "Azerbaijan"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "125"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "20%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Bahamas_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Bahamas",
+								"img": {
+									"src": "countries_files/Bahamas.gif",
+									"alt": "Bahamas"
+								},
+								"$t": "Bahamas"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "14"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "35.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Bahrain_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Bahrain",
+								"img": {
+									"src": "countries_files/Bahrain.gif",
+									"alt": "Bahrain"
+								},
+								"$t": "Bahrain"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "27"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "44.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.9%"
+						}
+					]
+				},
+				{
+					"id": "id_Bangladesh_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Bangladesh",
+								"img": {
+									"src": "countries_files/Bangladesh.gif",
+									"alt": "Bangladesh"
+								},
+								"$t": "Bangladesh"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1150"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "18.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Barbados_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Barbados",
+								"img": {
+									"src": "countries_files/Barbados.gif",
+									"alt": "Barbados"
+								},
+								"$t": "Barbados"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "14"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "21.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Belarus_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Belarus",
+								"img": {
+									"src": "countries_files/Belarus.gif",
+									"alt": "Belarus"
+								},
+								"$t": "Belarus"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "601"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "35.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Belgium_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Belgium",
+								"img": {
+									"src": "countries_files/Belgium.gif",
+									"alt": "Belgium"
+								},
+								"$t": "Belgium"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1692"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "40.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Belize_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Belize",
+								"img": {
+									"src": "countries_files/Belize.gif",
+									"alt": "Belize"
+								},
+								"$t": "Belize"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "13"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "30.8%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4%"
+						}
+					]
+				},
+				{
+					"id": "id_Benin_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Benin",
+								"img": {
+									"src": "countries_files/Benin.gif",
+									"alt": "Benin"
+								},
+								"$t": "Benin"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "11"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "9.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2%"
+						}
+					]
+				},
+				{
+					"id": "id_Bermuda_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Bermuda",
+								"img": {
+									"src": "countries_files/Bermuda.gif",
+									"alt": "Bermuda"
+								},
+								"$t": "Bermuda"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "14"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "42.9%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Bhutan_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Bhutan",
+								"img": {
+									"src": "countries_files/Bhutan.gif",
+									"alt": "Bhutan"
+								},
+								"$t": "Bhutan"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "13"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "23.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Bolivia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Bolivia",
+								"img": {
+									"src": "countries_files/Bolivia.gif",
+									"alt": "Bolivia"
+								},
+								"$t": "Bolivia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "112"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "21.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Bosnia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Bosnia",
+								"img": {
+									"src": "countries_files/Bosnia.gif",
+									"alt": "Bosnia"
+								},
+								"$t": "Bosnia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "146"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "26.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3%"
+						}
+					]
+				},
+				{
+					"id": "id_Botswana_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Botswana",
+								"img": {
+									"src": "countries_files/Botswana.gif",
+									"alt": "Botswana"
+								},
+								"$t": "Botswana"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "11"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "27.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Brazil_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Brazil",
+								"img": {
+									"src": "countries_files/Brazil.gif",
+									"alt": "Brazil"
+								},
+								"$t": "Brazil"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "3683"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "19.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Brunei_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Brunei",
+								"img": {
+									"src": "countries_files/Brunei.gif",
+									"alt": "Brunei"
+								},
+								"$t": "Brunei"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "16"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "12.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Bulgaria_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Bulgaria",
+								"img": {
+									"src": "countries_files/Bulgaria.gif",
+									"alt": "Bulgaria"
+								},
+								"$t": "Bulgaria"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "842"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "35.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5%"
+						}
+					]
+				},
+				{
+					"id": "id_Burkina_Faso_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Burkina_Faso",
+								"img": {
+									"src": "countries_files/Burkina_Faso.gif",
+									"alt": "Burkina Faso"
+								},
+								"$t": "Burkina Faso"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "12"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "25%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Burundi_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Burundi",
+								"img": {
+									"src": "countries_files/Burundi.gif",
+									"alt": "Burundi"
+								},
+								"$t": "Burundi"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "6"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "0%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Cambodia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Cambodia",
+								"img": {
+									"src": "countries_files/Cambodia.gif",
+									"alt": "Cambodia"
+								},
+								"$t": "Cambodia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "32"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "15.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Cameroon_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Cameroon",
+								"img": {
+									"src": "countries_files/Cameroon.gif",
+									"alt": "Cameroon"
+								},
+								"$t": "Cameroon"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "37"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "13.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2%"
+						}
+					]
+				},
+				{
+					"id": "id_Canada_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Canada",
+								"img": {
+									"src": "countries_files/Canada.gif",
+									"alt": "Canada"
+								},
+								"$t": "Canada"
+							}
+						},
+						{
+							"class": "user_column color_highlight",
+							"$t": "6791"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "37.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Cape_Verde_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Cape_Verde",
+								"img": {
+									"src": "countries_files/Cape_Verde.gif",
+									"alt": "Cape Verde"
+								},
+								"$t": "Cape Verde"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "13"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "38.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "6.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Caribbean_Netherlands_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Caribbean_Netherlands",
+								"img": {
+									"src": "countries_files/Caribbean_Netherlands.gif",
+									"alt": "Caribbean Netherlands"
+								},
+								"$t": "Caribbean Netherlands"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "5"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "20%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Cayman_Islands_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Cayman_Islands",
+								"img": {
+									"src": "countries_files/Cayman_Islands.gif",
+									"alt": "Cayman Islands"
+								},
+								"$t": "Cayman Islands"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "7"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "42.9%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Central_African_Republic_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Central_African_Republic",
+								"img": {
+									"src": "countries_files/Central_African_Republic.gif",
+									"alt": "Central African Republic"
+								},
+								"$t": "Central African Republic"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "12"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "25%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.9%"
+						}
+					]
+				},
+				{
+					"id": "id_Chad_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Chad",
+								"img": {
+									"src": "countries_files/Chad.gif",
+									"alt": "Chad"
+								},
+								"$t": "Chad"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "3"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "0%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "0.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Chile_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Chile",
+								"img": {
+									"src": "countries_files/Chile.gif",
+									"alt": "Chile"
+								},
+								"$t": "Chile"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "418"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "26.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.9%"
+						}
+					]
+				},
+				{
+					"id": "id_China_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=China",
+								"img": {
+									"src": "countries_files/China.gif",
+									"alt": "China"
+								},
+								"$t": "China"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "5814"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "40.9%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Christmas_Island_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Christmas_Island",
+								"img": {
+									"src": "countries_files/Christmas_Island.gif",
+									"alt": "Christmas Island"
+								},
+								"$t": "Christmas Island"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "25"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "20%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Colombia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Colombia",
+								"img": {
+									"src": "countries_files/Colombia.gif",
+									"alt": "Colombia"
+								},
+								"$t": "Colombia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "592"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "19.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Comoros_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Comoros",
+								"img": {
+									"src": "countries_files/Comoros.gif",
+									"alt": "Comoros"
+								},
+								"$t": "Comoros"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "5"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "20%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Congo_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Congo",
+								"img": {
+									"src": "countries_files/Congo.gif",
+									"alt": "Congo"
+								},
+								"$t": "Congo"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "9"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "11.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Costa_Rica_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Costa_Rica",
+								"img": {
+									"src": "countries_files/Costa_Rica.gif",
+									"alt": "Costa Rica"
+								},
+								"$t": "Costa Rica"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "98"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "19.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Croatia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Croatia",
+								"img": {
+									"src": "countries_files/Croatia.gif",
+									"alt": "Croatia"
+								},
+								"$t": "Croatia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "617"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "34.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Cuba_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Cuba",
+								"img": {
+									"src": "countries_files/Cuba.gif",
+									"alt": "Cuba"
+								},
+								"$t": "Cuba"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "127"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "28.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Curacao_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Curacao",
+								"img": {
+									"src": "countries_files/Curacao.gif",
+									"alt": "Curacao"
+								},
+								"$t": "Curacao"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "5"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "20%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.9%"
+						}
+					]
+				},
+				{
+					"id": "id_Cyprus_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Cyprus",
+								"img": {
+									"src": "countries_files/Cyprus.gif",
+									"alt": "Cyprus"
+								},
+								"$t": "Cyprus"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "104"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "36.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Czech_Republic_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Czech_Republic",
+								"img": {
+									"src": "countries_files/Czech_Republic.gif",
+									"alt": "Czech Republic"
+								},
+								"$t": "Czech Republic"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1251"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "42%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Denmark_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Denmark",
+								"img": {
+									"src": "countries_files/Denmark.gif",
+									"alt": "Denmark"
+								},
+								"$t": "Denmark"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1756"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "37.8%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Djibouti_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Djibouti",
+								"img": {
+									"src": "countries_files/Djibouti.gif",
+									"alt": "Djibouti"
+								},
+								"$t": "Djibouti"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "26"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "15.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Dominica_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Dominica",
+								"img": {
+									"src": "countries_files/Dominica.gif",
+									"alt": "Dominica"
+								},
+								"$t": "Dominica"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "4"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "25%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Dominican_Republic_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Dominican_Republic",
+								"img": {
+									"src": "countries_files/Dominican_Republic.gif",
+									"alt": "Dominican Republic"
+								},
+								"$t": "Dominican Republic"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "280"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "17.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.4%"
+						}
+					]
+				},
+				{
+					"id": "id_DPR_of_Korea_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=DPR_of_Korea",
+								"img": {
+									"src": "countries_files/DPR_of_Korea.gif",
+									"alt": "DPR of Korea"
+								},
+								"$t": "DPR of Korea"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "49"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "32.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.2%"
+						}
+					]
+				},
+				{
+					"id": "id_DR_of_Congo_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=DR_of_Congo",
+								"img": {
+									"src": "countries_files/DR_of_Congo.gif",
+									"alt": "DR of Congo"
+								},
+								"$t": "DR of Congo"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "17"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "29.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.7%"
+						}
+					]
+				},
+				{
+					"id": "id_East_Timor_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=East_Timor",
+								"img": {
+									"src": "countries_files/East_Timor.gif",
+									"alt": "East Timor"
+								},
+								"$t": "East Timor"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "5"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "0%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Ecuador_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Ecuador",
+								"img": {
+									"src": "countries_files/Ecuador.gif",
+									"alt": "Ecuador"
+								},
+								"$t": "Ecuador"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "103"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "22.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Egypt_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Egypt",
+								"img": {
+									"src": "countries_files/Egypt.gif",
+									"alt": "Egypt"
+								},
+								"$t": "Egypt"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "855"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "20.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.7%"
+						}
+					]
+				},
+				{
+					"id": "id_El_Salvador_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=El_Salvador",
+								"img": {
+									"src": "countries_files/El_Salvador.gif",
+									"alt": "El Salvador"
+								},
+								"$t": "El Salvador"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "52"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "13.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.3%"
+						}
+					]
+				},
+				{
+					"id": "id_England_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=England",
+								"img": {
+									"src": "countries_files/England.gif",
+									"alt": "England"
+								},
+								"$t": "England"
+							}
+						},
+						{
+							"class": "user_column color_highlight",
+							"$t": "8047"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "37.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Equatorial_Guinea_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Equatorial_Guinea",
+								"img": {
+									"src": "countries_files/Equatorial_Guinea.gif",
+									"alt": "Equatorial Guinea"
+								},
+								"$t": "Equatorial Guinea"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "6"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "0%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1%"
+						}
+					]
+				},
+				{
+					"id": "id_Eritrea_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Eritrea",
+								"img": {
+									"src": "countries_files/Eritrea.gif",
+									"alt": "Eritrea"
+								},
+								"$t": "Eritrea"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "8"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "0%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Estonia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Estonia",
+								"img": {
+									"src": "countries_files/Estonia.gif",
+									"alt": "Estonia"
+								},
+								"$t": "Estonia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "455"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "36.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Ethiopia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Ethiopia",
+								"img": {
+									"src": "countries_files/Ethiopia.gif",
+									"alt": "Ethiopia"
+								},
+								"$t": "Ethiopia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "73"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "23.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Faroe_Islands_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Faroe_Islands",
+								"img": {
+									"src": "countries_files/Faroe_Islands.gif",
+									"alt": "Faroe Islands"
+								},
+								"$t": "Faroe Islands"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "9"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "55.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Fiji_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Fiji",
+								"img": {
+									"src": "countries_files/Fiji.gif",
+									"alt": "Fiji"
+								},
+								"$t": "Fiji"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "16"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "18.8%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Finland_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Finland",
+								"img": {
+									"src": "countries_files/Finland.gif",
+									"alt": "Finland"
+								},
+								"$t": "Finland"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1478"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "39.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.3%"
+						}
+					]
+				},
+				{
+					"id": "id_France_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=France",
+								"img": {
+									"src": "countries_files/France.gif",
+									"alt": "France"
+								},
+								"$t": "France"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "5258"
+						},
+						{
+							"class": "level_column color_highlight",
+							"$t": "45%"
+						},
+						{
+							"class": "mean_column color_highlight",
+							"$t": "6.3%"
+						}
+					]
+				},
+				{
+					"id": "id_FYR_of_Macedonia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=FYR_of_Macedonia",
+								"img": {
+									"src": "countries_files/FYR_of_Macedonia.gif",
+									"alt": "FYR of Macedonia"
+								},
+								"$t": "FYR of Macedonia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "119"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "30.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4%"
+						}
+					]
+				},
+				{
+					"id": "id_Gabon_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Gabon",
+								"img": {
+									"src": "countries_files/Gabon.gif",
+									"alt": "Gabon"
+								},
+								"$t": "Gabon"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "12"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "33.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.9%"
+						}
+					]
+				},
+				{
+					"id": "id_Gambia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Gambia",
+								"img": {
+									"src": "countries_files/Gambia.gif",
+									"alt": "Gambia"
+								},
+								"$t": "Gambia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "5"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "40%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Georgia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Georgia",
+								"img": {
+									"src": "countries_files/Georgia.gif",
+									"alt": "Georgia"
+								},
+								"$t": "Georgia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "72"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "12.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Germany_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Germany",
+								"img": {
+									"src": "countries_files/Germany.gif",
+									"alt": "Germany"
+								},
+								"$t": "Germany"
+							}
+						},
+						{
+							"class": "user_column color_highlight",
+							"$t": "8728"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "40%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Ghana_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Ghana",
+								"img": {
+									"src": "countries_files/Ghana.gif",
+									"alt": "Ghana"
+								},
+								"$t": "Ghana"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "83"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "10.8%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Gibraltar_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Gibraltar",
+								"img": {
+									"src": "countries_files/Gibraltar.gif",
+									"alt": "Gibraltar"
+								},
+								"$t": "Gibraltar"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "7"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "0%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Greece_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Greece",
+								"img": {
+									"src": "countries_files/Greece.gif",
+									"alt": "Greece"
+								},
+								"$t": "Greece"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1050"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "34.9%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Greenland_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Greenland",
+								"img": {
+									"src": "countries_files/Greenland.gif",
+									"alt": "Greenland"
+								},
+								"$t": "Greenland"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "2"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "50%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3%"
+						}
+					]
+				},
+				{
+					"id": "id_Grenada_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Grenada",
+								"img": {
+									"src": "countries_files/Grenada.gif",
+									"alt": "Grenada"
+								},
+								"$t": "Grenada"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "5"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "0%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "0.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Guatemala_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Guatemala",
+								"img": {
+									"src": "countries_files/Guatemala.gif",
+									"alt": "Guatemala"
+								},
+								"$t": "Guatemala"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "102"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "30.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Guernsey_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Guernsey",
+								"img": {
+									"src": "countries_files/Guernsey.gif",
+									"alt": "Guernsey"
+								},
+								"$t": "Guernsey"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "11"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "81.8%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "12.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Guinea_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Guinea",
+								"img": {
+									"src": "countries_files/Guinea.gif",
+									"alt": "Guinea"
+								},
+								"$t": "Guinea"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "3"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "66.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Guinea_Bissau_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Guinea_Bissau",
+								"img": {
+									"src": "countries_files/Guinea_Bissau.gif",
+									"alt": "Guinea Bissau"
+								},
+								"$t": "Guinea Bissau"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "4"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "0%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Guyana_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Guyana",
+								"img": {
+									"src": "countries_files/Guyana.gif",
+									"alt": "Guyana"
+								},
+								"$t": "Guyana"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "6"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "50%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Haiti_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Haiti",
+								"img": {
+									"src": "countries_files/Haiti.gif",
+									"alt": "Haiti"
+								},
+								"$t": "Haiti"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "18"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "22.2%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Honduras_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Honduras",
+								"img": {
+									"src": "countries_files/Honduras.gif",
+									"alt": "Honduras"
+								},
+								"$t": "Honduras"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "46"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "17.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Hong_Kong_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Hong_Kong",
+								"img": {
+									"src": "countries_files/Hong_Kong.gif",
+									"alt": "Hong Kong"
+								},
+								"$t": "Hong Kong"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "468"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "42.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Hungary_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Hungary",
+								"img": {
+									"src": "countries_files/Hungary.gif",
+									"alt": "Hungary"
+								},
+								"$t": "Hungary"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1628"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "42.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Iceland_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Iceland",
+								"img": {
+									"src": "countries_files/Iceland.gif",
+									"alt": "Iceland"
+								},
+								"$t": "Iceland"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "391"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "34.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.3%"
+						}
+					]
+				},
+				{
+					"id": "id_India_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=India",
+								"img": {
+									"src": "countries_files/India.gif",
+									"alt": "India"
+								},
+								"$t": "India"
+							}
+						},
+						{
+							"class": "user_column color_highlight",
+							"$t": "12597"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "24.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Indonesia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Indonesia",
+								"img": {
+									"src": "countries_files/Indonesia.gif",
+									"alt": "Indonesia"
+								},
+								"$t": "Indonesia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1265"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "21.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3%"
+						}
+					]
+				},
+				{
+					"id": "id_Iran_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Iran",
+								"img": {
+									"src": "countries_files/Iran.gif",
+									"alt": "Iran"
+								},
+								"$t": "Iran"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1713"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "39%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Iraq_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Iraq",
+								"img": {
+									"src": "countries_files/Iraq.gif",
+									"alt": "Iraq"
+								},
+								"$t": "Iraq"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "31"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "16.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Ireland_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Ireland",
+								"img": {
+									"src": "countries_files/Ireland.gif",
+									"alt": "Ireland"
+								},
+								"$t": "Ireland"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1197"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "31.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4%"
+						}
+					]
+				},
+				{
+					"id": "id_Isle_of_Man_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Isle_of_Man",
+								"img": {
+									"src": "countries_files/Isle_of_Man.gif",
+									"alt": "Isle of Man"
+								},
+								"$t": "Isle of Man"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "32"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "31.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Israel_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Israel",
+								"img": {
+									"src": "countries_files/Israel.gif",
+									"alt": "Israel"
+								},
+								"$t": "Israel"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "2023"
+						},
+						{
+							"class": "level_column color_highlight",
+							"$t": "45.3%"
+						},
+						{
+							"class": "mean_column color_highlight",
+							"$t": "6.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Italy_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Italy",
+								"img": {
+									"src": "countries_files/Italy.gif",
+									"alt": "Italy"
+								},
+								"$t": "Italy"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "2423"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "34.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Ivory_Coast_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Ivory_Coast",
+								"img": {
+									"src": "countries_files/Ivory_Coast.gif",
+									"alt": "Ivory Coast"
+								},
+								"$t": "Ivory Coast"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "8"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "0%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "0.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Jamaica_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Jamaica",
+								"img": {
+									"src": "countries_files/Jamaica.gif",
+									"alt": "Jamaica"
+								},
+								"$t": "Jamaica"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "50"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "24%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Japan_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Japan",
+								"img": {
+									"src": "countries_files/Japan.gif",
+									"alt": "Japan"
+								},
+								"$t": "Japan"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "3640"
+						},
+						{
+							"class": "level_column color_highlight",
+							"$t": "51.8%"
+						},
+						{
+							"class": "mean_column color_highlight",
+							"$t": "7.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Jersey_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Jersey",
+								"img": {
+									"src": "countries_files/Jersey.gif",
+									"alt": "Jersey"
+								},
+								"$t": "Jersey"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "17"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "29.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Jordan_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Jordan",
+								"img": {
+									"src": "countries_files/Jordan.gif",
+									"alt": "Jordan"
+								},
+								"$t": "Jordan"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "133"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "30.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Kazakhstan_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Kazakhstan",
+								"img": {
+									"src": "countries_files/Kazakhstan.gif",
+									"alt": "Kazakhstan"
+								},
+								"$t": "Kazakhstan"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "181"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "24.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Kenya_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Kenya",
+								"img": {
+									"src": "countries_files/Kenya.gif",
+									"alt": "Kenya"
+								},
+								"$t": "Kenya"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "186"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "22%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Kiribati_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Kiribati",
+								"img": {
+									"src": "countries_files/Kiribati.gif",
+									"alt": "Kiribati"
+								},
+								"$t": "Kiribati"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "7"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "28.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Kosovo_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Kosovo",
+								"img": {
+									"src": "countries_files/Kosovo.gif",
+									"alt": "Kosovo"
+								},
+								"$t": "Kosovo"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "11"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "27.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Kuwait_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Kuwait",
+								"img": {
+									"src": "countries_files/Kuwait.gif",
+									"alt": "Kuwait"
+								},
+								"$t": "Kuwait"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "28"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "28.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Kyrgyzstan_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Kyrgyzstan",
+								"img": {
+									"src": "countries_files/Kyrgyzstan.gif",
+									"alt": "Kyrgyzstan"
+								},
+								"$t": "Kyrgyzstan"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "44"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "29.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Laos_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Laos",
+								"img": {
+									"src": "countries_files/Laos.gif",
+									"alt": "Laos"
+								},
+								"$t": "Laos"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "13"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "7.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Latvia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Latvia",
+								"img": {
+									"src": "countries_files/Latvia.gif",
+									"alt": "Latvia"
+								},
+								"$t": "Latvia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "367"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "33.8%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Lebanon_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Lebanon",
+								"img": {
+									"src": "countries_files/Lebanon.gif",
+									"alt": "Lebanon"
+								},
+								"$t": "Lebanon"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "205"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "33.2%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Lesotho_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Lesotho",
+								"img": {
+									"src": "countries_files/Lesotho.gif",
+									"alt": "Lesotho"
+								},
+								"$t": "Lesotho"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "5"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "20%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.9%"
+						}
+					]
+				},
+				{
+					"id": "id_Liberia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Liberia",
+								"img": {
+									"src": "countries_files/Liberia.gif",
+									"alt": "Liberia"
+								},
+								"$t": "Liberia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "3"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "0%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Libya_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Libya",
+								"img": {
+									"src": "countries_files/Libya.gif",
+									"alt": "Libya"
+								},
+								"$t": "Libya"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "13"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "7.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3%"
+						}
+					]
+				},
+				{
+					"id": "id_Liechtenstein_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Liechtenstein",
+								"img": {
+									"src": "countries_files/Liechtenstein.gif",
+									"alt": "Liechtenstein"
+								},
+								"$t": "Liechtenstein"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "14"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "28.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Lithuania_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Lithuania",
+								"img": {
+									"src": "countries_files/Lithuania.gif",
+									"alt": "Lithuania"
+								},
+								"$t": "Lithuania"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "707"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "32.8%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Luxembourg_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Luxembourg",
+								"img": {
+									"src": "countries_files/Luxembourg.gif",
+									"alt": "Luxembourg"
+								},
+								"$t": "Luxembourg"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "101"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "28.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Macao_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Macao",
+								"img": {
+									"src": "countries_files/Macao.gif",
+									"alt": "Macao"
+								},
+								"$t": "Macao"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "11"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "36.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Madagascar_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Madagascar",
+								"img": {
+									"src": "countries_files/Madagascar.gif",
+									"alt": "Madagascar"
+								},
+								"$t": "Madagascar"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "13"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "23.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Malawi_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Malawi",
+								"img": {
+									"src": "countries_files/Malawi.gif",
+									"alt": "Malawi"
+								},
+								"$t": "Malawi"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "4"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "50%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Malaysia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Malaysia",
+								"img": {
+									"src": "countries_files/Malaysia.gif",
+									"alt": "Malaysia"
+								},
+								"$t": "Malaysia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "434"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "25.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Maldives_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Maldives",
+								"img": {
+									"src": "countries_files/Maldives.gif",
+									"alt": "Maldives"
+								},
+								"$t": "Maldives"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "23"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "17.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.9%"
+						}
+					]
+				},
+				{
+					"id": "id_Mali_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Mali",
+								"img": {
+									"src": "countries_files/Mali.gif",
+									"alt": "Mali"
+								},
+								"$t": "Mali"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "7"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "14.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Malta_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Malta",
+								"img": {
+									"src": "countries_files/Malta.gif",
+									"alt": "Malta"
+								},
+								"$t": "Malta"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "62"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "33.9%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Marshall_Islands_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Marshall_Islands",
+								"img": {
+									"src": "countries_files/Marshall_Islands.gif",
+									"alt": "Marshall Islands"
+								},
+								"$t": "Marshall Islands"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "6"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "50%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Mauritania_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Mauritania",
+								"img": {
+									"src": "countries_files/Mauritania.gif",
+									"alt": "Mauritania"
+								},
+								"$t": "Mauritania"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "6"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "33.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Mauritius_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Mauritius",
+								"img": {
+									"src": "countries_files/Mauritius.gif",
+									"alt": "Mauritius"
+								},
+								"$t": "Mauritius"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "30"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "20%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Mexico_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Mexico",
+								"img": {
+									"src": "countries_files/Mexico.gif",
+									"alt": "Mexico"
+								},
+								"$t": "Mexico"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "2009"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "19.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Micronesia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Micronesia",
+								"img": {
+									"src": "countries_files/Micronesia.gif",
+									"alt": "Micronesia"
+								},
+								"$t": "Micronesia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "7"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "42.9%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Moldova_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Moldova",
+								"img": {
+									"src": "countries_files/Moldova.gif",
+									"alt": "Moldova"
+								},
+								"$t": "Moldova"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "190"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "28.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Monaco_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Monaco",
+								"img": {
+									"src": "countries_files/Monaco.gif",
+									"alt": "Monaco"
+								},
+								"$t": "Monaco"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "7"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "28.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.9%"
+						}
+					]
+				},
+				{
+					"id": "id_Mongolia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Mongolia",
+								"img": {
+									"src": "countries_files/Mongolia.gif",
+									"alt": "Mongolia"
+								},
+								"$t": "Mongolia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "49"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "24.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Montenegro_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Montenegro",
+								"img": {
+									"src": "countries_files/Montenegro.gif",
+									"alt": "Montenegro"
+								},
+								"$t": "Montenegro"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "22"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "27.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Morocco_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Morocco",
+								"img": {
+									"src": "countries_files/Morocco.gif",
+									"alt": "Morocco"
+								},
+								"$t": "Morocco"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "296"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "26.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Mozambique_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Mozambique",
+								"img": {
+									"src": "countries_files/Mozambique.gif",
+									"alt": "Mozambique"
+								},
+								"$t": "Mozambique"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "11"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "18.2%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Myanmar_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Myanmar",
+								"img": {
+									"src": "countries_files/Myanmar.gif",
+									"alt": "Myanmar"
+								},
+								"$t": "Myanmar"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "59"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "20.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Namibia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Namibia",
+								"img": {
+									"src": "countries_files/Namibia.gif",
+									"alt": "Namibia"
+								},
+								"$t": "Namibia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "11"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "36.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4%"
+						}
+					]
+				},
+				{
+					"id": "id_Nauru_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Nauru",
+								"img": {
+									"src": "countries_files/Nauru.gif",
+									"alt": "Nauru"
+								},
+								"$t": "Nauru"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "9"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "22.2%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2%"
+						}
+					]
+				},
+				{
+					"id": "id_Nepal_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Nepal",
+								"img": {
+									"src": "countries_files/Nepal.gif",
+									"alt": "Nepal"
+								},
+								"$t": "Nepal"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "347"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "25.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Netherlands_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Netherlands",
+								"img": {
+									"src": "countries_files/Netherlands.gif",
+									"alt": "Netherlands"
+								},
+								"$t": "Netherlands"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "3975"
+						},
+						{
+							"class": "level_column color_highlight",
+							"$t": "43.6%"
+						},
+						{
+							"class": "mean_column color_highlight",
+							"$t": "5.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Netherlands_Antilles_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Netherlands_Antilles",
+								"img": {
+									"src": "countries_files/Netherlands_Antilles.gif",
+									"alt": "Netherlands Antilles"
+								},
+								"$t": "Netherlands Antilles"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "8"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "12.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.8%"
+						}
+					]
+				},
+				{
+					"id": "id_New_Guinea_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=New_Guinea",
+								"img": {
+									"src": "countries_files/New_Guinea.gif",
+									"alt": "New Guinea"
+								},
+								"$t": "New Guinea"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "4"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "50%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.9%"
+						}
+					]
+				},
+				{
+					"id": "id_New_Zealand_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=New_Zealand",
+								"img": {
+									"src": "countries_files/New_Zealand.gif",
+									"alt": "New Zealand"
+								},
+								"$t": "New Zealand"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1009"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "35.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Nicaragua_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Nicaragua",
+								"img": {
+									"src": "countries_files/Nicaragua.gif",
+									"alt": "Nicaragua"
+								},
+								"$t": "Nicaragua"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "16"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "25%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Niger_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Niger",
+								"img": {
+									"src": "countries_files/Niger.gif",
+									"alt": "Niger"
+								},
+								"$t": "Niger"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "10"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "30%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Nigeria_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Nigeria",
+								"img": {
+									"src": "countries_files/Nigeria.gif",
+									"alt": "Nigeria"
+								},
+								"$t": "Nigeria"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "221"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "14%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Northern_Ireland_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Northern_Ireland",
+								"img": {
+									"src": "countries_files/Northern_Ireland.gif",
+									"alt": "Northern Ireland"
+								},
+								"$t": "Northern Ireland"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "199"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "38.2%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Norway_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Norway",
+								"img": {
+									"src": "countries_files/Norway.gif",
+									"alt": "Norway"
+								},
+								"$t": "Norway"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1819"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "37.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Oman_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Oman",
+								"img": {
+									"src": "countries_files/Oman.gif",
+									"alt": "Oman"
+								},
+								"$t": "Oman"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "15"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "33.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.9%"
+						}
+					]
+				},
+				{
+					"id": "id_Pakistan_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Pakistan",
+								"img": {
+									"src": "countries_files/Pakistan.gif",
+									"alt": "Pakistan"
+								},
+								"$t": "Pakistan"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "530"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "19.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.9%"
+						}
+					]
+				},
+				{
+					"id": "id_Palau_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Palau",
+								"img": {
+									"src": "countries_files/Palau.gif",
+									"alt": "Palau"
+								},
+								"$t": "Palau"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1143"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "9.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Palestine_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Palestine",
+								"img": {
+									"src": "countries_files/Palestine.gif",
+									"alt": "Palestine"
+								},
+								"$t": "Palestine"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "73"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "21.9%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4%"
+						}
+					]
+				},
+				{
+					"id": "id_Panama_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Panama",
+								"img": {
+									"src": "countries_files/Panama.gif",
+									"alt": "Panama"
+								},
+								"$t": "Panama"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "46"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "26.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Paraguay_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Paraguay",
+								"img": {
+									"src": "countries_files/Paraguay.gif",
+									"alt": "Paraguay"
+								},
+								"$t": "Paraguay"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "40"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "22.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Peru_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Peru",
+								"img": {
+									"src": "countries_files/Peru.gif",
+									"alt": "Peru"
+								},
+								"$t": "Peru"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "244"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "25.8%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Philippines_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Philippines",
+								"img": {
+									"src": "countries_files/Philippines.gif",
+									"alt": "Philippines"
+								},
+								"$t": "Philippines"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1376"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "22.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Poland_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Poland",
+								"img": {
+									"src": "countries_files/Poland.gif",
+									"alt": "Poland"
+								},
+								"$t": "Poland"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "3620"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "34.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Portugal_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Portugal",
+								"img": {
+									"src": "countries_files/Portugal.gif",
+									"alt": "Portugal"
+								},
+								"$t": "Portugal"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1397"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "29.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.9%"
+						}
+					]
+				},
+				{
+					"id": "id_Puerto_Rico_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Puerto_Rico",
+								"img": {
+									"src": "countries_files/Puerto_Rico.gif",
+									"alt": "Puerto Rico"
+								},
+								"$t": "Puerto Rico"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "107"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "24.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Qatar_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Qatar",
+								"img": {
+									"src": "countries_files/Qatar.gif",
+									"alt": "Qatar"
+								},
+								"$t": "Qatar"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "17"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "17.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Romania_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Romania",
+								"img": {
+									"src": "countries_files/Romania.gif",
+									"alt": "Romania"
+								},
+								"$t": "Romania"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1629"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "31.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Russia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Russia",
+								"img": {
+									"src": "countries_files/Russia.gif",
+									"alt": "Russia"
+								},
+								"$t": "Russia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "4598"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "38.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Rwanda_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Rwanda",
+								"img": {
+									"src": "countries_files/Rwanda.gif",
+									"alt": "Rwanda"
+								},
+								"$t": "Rwanda"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "12"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "58.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "6.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Saint_Lucia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Saint_Lucia",
+								"img": {
+									"src": "countries_files/Saint_Lucia.gif",
+									"alt": "Saint Lucia"
+								},
+								"$t": "Saint Lucia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "8"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "0%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Samoa_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Samoa",
+								"img": {
+									"src": "countries_files/Samoa.gif",
+									"alt": "Samoa"
+								},
+								"$t": "Samoa"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "4"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "25%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "24.7%"
+						}
+					]
+				},
+				{
+					"id": "id_San_Marino_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=San_Marino",
+								"img": {
+									"src": "countries_files/San_Marino.gif",
+									"alt": "San Marino"
+								},
+								"$t": "San Marino"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "8"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "62.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "7%"
+						}
+					]
+				},
+				{
+					"id": "id_Sao_Tome_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Sao_Tome",
+								"img": {
+									"src": "countries_files/Sao_Tome.gif",
+									"alt": "Sao Tome"
+								},
+								"$t": "Sao Tome"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "4"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "25%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Saudi_Arabia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Saudi_Arabia",
+								"img": {
+									"src": "countries_files/Saudi_Arabia.gif",
+									"alt": "Saudi Arabia"
+								},
+								"$t": "Saudi Arabia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "148"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "29.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Scotland_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Scotland",
+								"img": {
+									"src": "countries_files/Scotland.gif",
+									"alt": "Scotland"
+								},
+								"$t": "Scotland"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "880"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "34.2%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Senegal_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Senegal",
+								"img": {
+									"src": "countries_files/Senegal.gif",
+									"alt": "Senegal"
+								},
+								"$t": "Senegal"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "13"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "23.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Serbia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Serbia",
+								"img": {
+									"src": "countries_files/Serbia.gif",
+									"alt": "Serbia"
+								},
+								"$t": "Serbia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "534"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "29.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.9%"
+						}
+					]
+				},
+				{
+					"id": "id_Seychelles_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Seychelles",
+								"img": {
+									"src": "countries_files/Seychelles.gif",
+									"alt": "Seychelles"
+								},
+								"$t": "Seychelles"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "16"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "12.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Sierra_Leone_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Sierra_Leone",
+								"img": {
+									"src": "countries_files/Sierra_Leone.gif",
+									"alt": "Sierra Leone"
+								},
+								"$t": "Sierra Leone"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "7"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "28.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Singapore_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Singapore",
+								"img": {
+									"src": "countries_files/Singapore.gif",
+									"alt": "Singapore"
+								},
+								"$t": "Singapore"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "681"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "35.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Sint_Maarten_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Sint_Maarten",
+								"img": {
+									"src": "countries_files/Sint_Maarten.gif",
+									"alt": "Sint Maarten"
+								},
+								"$t": "Sint Maarten"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "0%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Slovakia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Slovakia",
+								"img": {
+									"src": "countries_files/Slovakia.gif",
+									"alt": "Slovakia"
+								},
+								"$t": "Slovakia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "675"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "37.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Slovenia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Slovenia",
+								"img": {
+									"src": "countries_files/Slovenia.gif",
+									"alt": "Slovenia"
+								},
+								"$t": "Slovenia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "715"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "40.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Solomon_Islands_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Solomon_Islands",
+								"img": {
+									"src": "countries_files/Solomon_Islands.gif",
+									"alt": "Solomon Islands"
+								},
+								"$t": "Solomon Islands"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "3"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "33.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Somalia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Somalia",
+								"img": {
+									"src": "countries_files/Somalia.gif",
+									"alt": "Somalia"
+								},
+								"$t": "Somalia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "12"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "33.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4%"
+						}
+					]
+				},
+				{
+					"id": "id_South_Africa_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=South_Africa",
+								"img": {
+									"src": "countries_files/South_Africa.gif",
+									"alt": "South Africa"
+								},
+								"$t": "South Africa"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1368"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "27.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.7%"
+						}
+					]
+				},
+				{
+					"id": "id_current",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=South_Korea",
+								"img": {
+									"src": "countries_files/South_Korea.gif",
+									"alt": "South Korea"
+								},
+								"$t": "South Korea"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1786"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "40.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.3%"
+						}
+					]
+				},
+				{
+					"id": "id_South_Sudan_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=South_Sudan",
+								"img": {
+									"src": "countries_files/South_Sudan.gif",
+									"alt": "South Sudan"
+								},
+								"$t": "South Sudan"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "2"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "50%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.9%"
+						}
+					]
+				},
+				{
+					"id": "id_Spain_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Spain",
+								"img": {
+									"src": "countries_files/Spain.gif",
+									"alt": "Spain"
+								},
+								"$t": "Spain"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1783"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "30.8%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Sri_Lanka_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Sri_Lanka",
+								"img": {
+									"src": "countries_files/Sri_Lanka.gif",
+									"alt": "Sri Lanka"
+								},
+								"$t": "Sri Lanka"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1686"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "37%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.2%"
+						}
+					]
+				},
+				{
+					"id": "id_St_Vincent_Grenadines_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=St_Vincent_Grenadines",
+								"img": {
+									"src": "countries_files/St_Vincent_Grenadines.gif",
+									"alt": "St Vincent Grenadines"
+								},
+								"$t": "St Vincent Grenadines"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "15"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "20%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Sudan_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Sudan",
+								"img": {
+									"src": "countries_files/Sudan.gif",
+									"alt": "Sudan"
+								},
+								"$t": "Sudan"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "20"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "30%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Suriname_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Suriname",
+								"img": {
+									"src": "countries_files/Suriname.gif",
+									"alt": "Suriname"
+								},
+								"$t": "Suriname"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "3"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "33.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Swaziland_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Swaziland",
+								"img": {
+									"src": "countries_files/Swaziland.gif",
+									"alt": "Swaziland"
+								},
+								"$t": "Swaziland"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "15"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "26.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.9%"
+						}
+					]
+				},
+				{
+					"id": "id_Sweden_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Sweden",
+								"img": {
+									"src": "countries_files/Sweden.gif",
+									"alt": "Sweden"
+								},
+								"$t": "Sweden"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "4182"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "39.2%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5%"
+						}
+					]
+				},
+				{
+					"id": "id_Switzerland_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Switzerland",
+								"img": {
+									"src": "countries_files/Switzerland.gif",
+									"alt": "Switzerland"
+								},
+								"$t": "Switzerland"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "1291"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "40%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Syria_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Syria",
+								"img": {
+									"src": "countries_files/Syria.gif",
+									"alt": "Syria"
+								},
+								"$t": "Syria"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "110"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "32.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Taiwan_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Taiwan",
+								"img": {
+									"src": "countries_files/Taiwan.gif",
+									"alt": "Taiwan"
+								},
+								"$t": "Taiwan"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "536"
+						},
+						{
+							"class": "level_column color_highlight",
+							"$t": "46.5%"
+						},
+						{
+							"class": "mean_column color_highlight",
+							"$t": "6.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Tajikistan_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Tajikistan",
+								"img": {
+									"src": "countries_files/Tajikistan.gif",
+									"alt": "Tajikistan"
+								},
+								"$t": "Tajikistan"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "21"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "19%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.9%"
+						}
+					]
+				},
+				{
+					"id": "id_Tanzania_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Tanzania",
+								"img": {
+									"src": "countries_files/Tanzania.gif",
+									"alt": "Tanzania"
+								},
+								"$t": "Tanzania"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "36"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "25%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Thailand_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Thailand",
+								"img": {
+									"src": "countries_files/Thailand.gif",
+									"alt": "Thailand"
+								},
+								"$t": "Thailand"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "431"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "33.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Togo_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Togo",
+								"img": {
+									"src": "countries_files/Togo.gif",
+									"alt": "Togo"
+								},
+								"$t": "Togo"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "19"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "21.1%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.8%"
+						}
+					]
+				},
+				{
+					"id": "id_Tonga_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Tonga",
+								"img": {
+									"src": "countries_files/Tonga.gif",
+									"alt": "Tonga"
+								},
+								"$t": "Tonga"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "8"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "75%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "6.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Trinidad_Tobago_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Trinidad_Tobago",
+								"img": {
+									"src": "countries_files/Trinidad_Tobago.gif",
+									"alt": "Trinidad Tobago"
+								},
+								"$t": "Trinidad Tobago"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "53"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "37.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Tunisia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Tunisia",
+								"img": {
+									"src": "countries_files/Tunisia.gif",
+									"alt": "Tunisia"
+								},
+								"$t": "Tunisia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "178"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "20.8%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.9%"
+						}
+					]
+				},
+				{
+					"id": "id_Turkey_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Turkey",
+								"img": {
+									"src": "countries_files/Turkey.gif",
+									"alt": "Turkey"
+								},
+								"$t": "Turkey"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "2260"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "25.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Turkmenistan_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Turkmenistan",
+								"img": {
+									"src": "countries_files/Turkmenistan.gif",
+									"alt": "Turkmenistan"
+								},
+								"$t": "Turkmenistan"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "45"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "26.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.7%"
+						}
+					]
+				},
+				{
+					"id": "id_Tuvalu_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Tuvalu",
+								"img": {
+									"src": "countries_files/Tuvalu.gif",
+									"alt": "Tuvalu"
+								},
+								"$t": "Tuvalu"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "10"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "0%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "1.6%"
+						}
+					]
+				},
+				{
+					"id": "id_Uganda_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Uganda",
+								"img": {
+									"src": "countries_files/Uganda.gif",
+									"alt": "Uganda"
+								},
+								"$t": "Uganda"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "52"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "17.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Ukraine_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Ukraine",
+								"img": {
+									"src": "countries_files/Ukraine.gif",
+									"alt": "Ukraine"
+								},
+								"$t": "Ukraine"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "2140"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "31.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.2%"
+						}
+					]
+				},
+				{
+					"id": "id_United_Arab_Emirates_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=United_Arab_Emirates",
+								"img": {
+									"src": "countries_files/United_Arab_Emirates.gif",
+									"alt": "United Arab Emirates"
+								},
+								"$t": "United Arab Emirates"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "79"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "31.6%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Uruguay_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Uruguay",
+								"img": {
+									"src": "countries_files/Uruguay.gif",
+									"alt": "Uruguay"
+								},
+								"$t": "Uruguay"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "105"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "22.9%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.8%"
+						}
+					]
+				},
+				{
+					"id": "id_USA_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=USA",
+								"img": {
+									"src": "countries_files/USA.gif",
+									"alt": "USA"
+								},
+								"$t": "USA"
+							}
+						},
+						{
+							"class": "user_column color_highlight",
+							"$t": "41676"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "38.5%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "5%"
+						}
+					]
+				},
+				{
+					"id": "id_Uzbekistan_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Uzbekistan",
+								"img": {
+									"src": "countries_files/Uzbekistan.gif",
+									"alt": "Uzbekistan"
+								},
+								"$t": "Uzbekistan"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "94"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "28.7%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Vanuatu_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Vanuatu",
+								"img": {
+									"src": "countries_files/Vanuatu.gif",
+									"alt": "Vanuatu"
+								},
+								"$t": "Vanuatu"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "11"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "18.2%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Venezuela_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Venezuela",
+								"img": {
+									"src": "countries_files/Venezuela.gif",
+									"alt": "Venezuela"
+								},
+								"$t": "Venezuela"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "248"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "23.8%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.2%"
+						}
+					]
+				},
+				{
+					"id": "id_Vietnam_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Vietnam",
+								"img": {
+									"src": "countries_files/Vietnam.gif",
+									"alt": "Vietnam"
+								},
+								"$t": "Vietnam"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "981"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "31.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.3%"
+						}
+					]
+				},
+				{
+					"id": "id_Virgin_Islands_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Virgin_Islands",
+								"img": {
+									"src": "countries_files/Virgin_Islands.gif",
+									"alt": "Virgin Islands"
+								},
+								"$t": "Virgin Islands"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "12"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "33.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.4%"
+						}
+					]
+				},
+				{
+					"id": "id_Wales_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Wales",
+								"img": {
+									"src": "countries_files/Wales.gif",
+									"alt": "Wales"
+								},
+								"$t": "Wales"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "353"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "34.3%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "4.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Yemen_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Yemen",
+								"img": {
+									"src": "countries_files/Yemen.gif",
+									"alt": "Yemen"
+								},
+								"$t": "Yemen"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "25"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "16%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3%"
+						}
+					]
+				},
+				{
+					"id": "id_Yugoslavia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Yugoslavia",
+								"img": {
+									"src": "countries_files/Yugoslavia.gif",
+									"alt": "Yugoslavia"
+								},
+								"$t": "Yugoslavia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "19"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "15.8%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.1%"
+						}
+					]
+				},
+				{
+					"id": "id_Zambia_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Zambia",
+								"img": {
+									"src": "countries_files/Zambia.gif",
+									"alt": "Zambia"
+								},
+								"$t": "Zambia"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "11"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "36.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "3.5%"
+						}
+					]
+				},
+				{
+					"id": "id_Zimbabwe_",
+					"td": [
+						{
+							"class": "country_column",
+							"a": {
+								"href": "https://projecteuler.net/country=Zimbabwe",
+								"img": {
+									"src": "countries_files/Zimbabwe.gif",
+									"alt": "Zimbabwe"
+								},
+								"$t": "Zimbabwe"
+							}
+						},
+						{
+							"class": "user_column color_normal",
+							"$t": "61"
+						},
+						{
+							"class": "level_column color_normal",
+							"$t": "16.4%"
+						},
+						{
+							"class": "mean_column color_normal",
+							"$t": "2.3%"
+						}
+					]
+				}
+			]
+		}
+	}
+}
